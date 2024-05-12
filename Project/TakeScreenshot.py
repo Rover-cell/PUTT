@@ -4,6 +4,7 @@ import pytesseract
 import pygame
 import os
 
+#Change directory as needed
 base_dir = r"C:\Users\User\Project\ObjectDetectionProject\ComputerVisionTasks\Object-detection"
 
 pygame.init()
