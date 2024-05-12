@@ -6,6 +6,7 @@ import os
 import cv2
 import matplotlib.pyplot as plt
 
+#Change directory as needed
 base_dir = r"C:\Users\User\Project\ObjectDetectionProject\ComputerVisionTasks\Object-detection"
 
 pygame.init()
