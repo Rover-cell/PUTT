@@ -1,2 +1,2 @@
 # PUTT
-A program that plays an audio when it finds a specific object
+A program that plays an audio when it detects a specific object
