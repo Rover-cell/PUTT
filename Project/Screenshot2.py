@@ -18,6 +18,8 @@ audio = os.path.join(base_dir, 'oof.mp3')
 print("Taking a screenshot...")
 screenshot.save("picturetaken.png", "PNG")
 
+plt.show(block=False)
+plt.pause(3)
 plt.close()
 
 print("Converting picture to string...")
